@@ -1,0 +1,100 @@
+{
+  "schemaVersion": 1,
+  "harnesses": [
+    {
+      "id": "longly",
+      "displayName": "Longly",
+      "latestVersion": "dev",
+      "releases": [
+        {
+          "version": "dev",
+          "assets": [
+            {
+              "platform": "linux",
+              "arch": "x64",
+              "url": "https://github.com/sugatachcal/zolo-releases/releases/download/harness-dev/longly-dev-linux-x64.tar.gz",
+              "sha256": "49fa8979fbd656da437e999f2c6267ef71d449a630d0afb5d18c59941110a961",
+              "size": 2891527
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "claude-code",
+      "displayName": "Claude Code",
+      "latestVersion": "0.3.221",
+      "releases": [
+        {
+          "version": "0.3.221",
+          "assets": [
+            {
+              "platform": "linux",
+              "arch": "x64",
+              "url": "https://github.com/sugatachcal/zolo-releases/releases/download/harness-dev/claude-code-0.3.221-linux-x64.tar.gz",
+              "sha256": "9f063e08aba1864c4723f2321364e2b009a53348350db010cf6186ebb074b19f",
+              "size": 90510323
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "codex",
+      "displayName": "Codex",
+      "latestVersion": "0.146.0",
+      "releases": [
+        {
+          "version": "0.146.0",
+          "assets": [
+            {
+              "platform": "linux",
+              "arch": "x64",
+              "url": "https://github.com/sugatachcal/zolo-releases/releases/download/harness-dev/codex-0.146.0-linux-x64.tar.gz",
+              "sha256": "64ee423b79326468b7ac6a009b891263a25c003fc22df2ebfeca5ac358c2d6f1",
+              "size": 117012204
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "opencode",
+      "displayName": "OpenCode",
+      "latestVersion": "1.18.12",
+      "releases": [
+        {
+          "version": "1.18.12",
+          "assets": [
+            {
+              "platform": "linux",
+              "arch": "x64",
+              "url": "https://github.com/sugatachcal/zolo-releases/releases/download/harness-dev/opencode-1.18.12-linux-x64.tar.gz",
+              "sha256": "b43f9a35a55dd25a16fc4fe0f79ecaa3ead761212ac74b3728e38b63e250f7ed",
+              "size": 639671
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cursor",
+      "displayName": "Cursor",
+      "latestVersion": "1.0.26",
+      "releases": [
+        {
+          "version": "1.0.26",
+          "assets": [
+            {
+              "platform": "linux",
+              "arch": "x64",
+              "url": "https://github.com/sugatachcal/zolo-releases/releases/download/harness-dev/cursor-1.0.26-linux-x64.tar.gz",
+              "sha256": "08acb7353552b3939f2398d64e59fbffc621a650df7660a94d9000e135d6b12d",
+              "size": 1341244
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
