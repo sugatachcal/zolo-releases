@@ -12,16 +12,16 @@
             {
               "platform": "linux",
               "arch": "x64",
-              "url": "https://github.com/sugatachcal/zolo-releases/releases/download/harness-dev/claude-code-0.3.239+runtime.2-linux-x64.tar.gz",
-              "sha256": "8d7934eb0c4c41bca9ca6a322775d22a956ed507b0e9d72bcbc1b40459dceb52",
-              "size": 103702684
+              "url": "https://github.com/sugatachcal/zolo-releases/releases/download/v0.1.29/claude-code-0.3.239+runtime.2-linux-x64.tar.gz",
+              "sha256": "918ce7947769177dd9641613648ce52edf991529efe02309cb6277b80276768c",
+              "size": 104325344
             },
             {
               "platform": "linux",
               "arch": "arm64",
-              "url": "https://github.com/sugatachcal/zolo-releases/releases/download/harness-dev/claude-code-0.3.239+runtime.2-linux-arm64.tar.gz",
-              "sha256": "312057a908973993db8fe42b3fcc982c5704fd63e62b70c78adb52fa0f124e88",
-              "size": 102707657
+              "url": "https://github.com/sugatachcal/zolo-releases/releases/download/v0.1.29/claude-code-0.3.239+runtime.2-linux-arm64.tar.gz",
+              "sha256": "239d6b4bb490e00b8d05e7afb4817bafa295f7474d52f47f629dea79e33d2d9b",
+              "size": 103916631
             },
             {
               "platform": "darwin",
@@ -33,9 +33,9 @@
             {
               "platform": "darwin",
               "arch": "arm64",
-              "url": "https://github.com/sugatachcal/zolo-releases/releases/download/harness-dev/claude-code-0.3.239+runtime.2-darwin-arm64.tar.gz",
-              "sha256": "da8dca4a9ad12bdeed4c406a5944531954fd34468d6251efb64ea2b8689172f3",
-              "size": 93292851
+              "url": "https://github.com/sugatachcal/zolo-releases/releases/download/v0.1.29/claude-code-0.3.239+runtime.2-darwin-arm64.tar.gz",
+              "sha256": "9ce3bceb9357ed8ffe475fd98bf71e3fb2b6cc29d32e958318e8f709af601c6b",
+              "size": 94257268
             }
           ]
         }
@@ -52,16 +52,16 @@
             {
               "platform": "linux",
               "arch": "x64",
-              "url": "https://github.com/sugatachcal/zolo-releases/releases/download/harness-dev/codex-0.149.0+runtime.2-linux-x64.tar.gz",
-              "sha256": "a5aab27ac7cf1df9ec2f413750584f09b32f7c6dffe3b6a185f3260a6ab84e07",
-              "size": 99616499
+              "url": "https://github.com/sugatachcal/zolo-releases/releases/download/v0.1.29/codex-0.149.0+runtime.2-linux-x64.tar.gz",
+              "sha256": "cc8fefbb180a2454d12121151b976eda4782181b279b59c0c26811c6f804c611",
+              "size": 101415271
             },
             {
               "platform": "linux",
               "arch": "arm64",
-              "url": "https://github.com/sugatachcal/zolo-releases/releases/download/harness-dev/codex-0.149.0+runtime.2-linux-arm64.tar.gz",
-              "sha256": "7e8318ea5fbe4e196220c602cf7551af016fff91e3470e6b3a43cdbeeb17600f",
-              "size": 92108335
+              "url": "https://github.com/sugatachcal/zolo-releases/releases/download/v0.1.29/codex-0.149.0+runtime.2-linux-arm64.tar.gz",
+              "sha256": "f247ae11a58d2c03c41b97a2a285174511326845156091a1fb746a57d6e60fa1",
+              "size": 95405727
             },
             {
               "platform": "darwin",
@@ -73,9 +73,9 @@
             {
               "platform": "darwin",
               "arch": "arm64",
-              "url": "https://github.com/sugatachcal/zolo-releases/releases/download/harness-dev/codex-0.149.0+runtime.2-darwin-arm64.tar.gz",
-              "sha256": "099804a8de89602a0e5acf021a6f998d55a2384d1e610a87e57ca0a073fe9e76",
-              "size": 88449514
+              "url": "https://github.com/sugatachcal/zolo-releases/releases/download/v0.1.29/codex-0.149.0+runtime.2-darwin-arm64.tar.gz",
+              "sha256": "b20f59e56c540e4fa6379aecc1f34e2802895c65de4212dca6f973af0e24af10",
+              "size": 91666297
             }
           ]
         }
@@ -92,16 +92,16 @@
             {
               "platform": "linux",
               "arch": "x64",
-              "url": "https://github.com/sugatachcal/zolo-releases/releases/download/harness-dev/opencode-1.18.21+runtime.2-linux-x64.tar.gz",
-              "sha256": "1dbc8df1566d587a9b4a964fccbd2017cb8b5049d1b4d35db9d3bce7c9faac85",
-              "size": 60635093
+              "url": "https://github.com/sugatachcal/zolo-releases/releases/download/v0.1.29/opencode-1.18.21+runtime.2-linux-x64.tar.gz",
+              "sha256": "4d9705acaf79c2006d307d6e20100e83006e979a92a80787734c423d1d27c1db",
+              "size": 61588162
             },
             {
               "platform": "linux",
               "arch": "arm64",
-              "url": "https://github.com/sugatachcal/zolo-releases/releases/download/harness-dev/opencode-1.18.21+runtime.2-linux-arm64.tar.gz",
-              "sha256": "734d6f356f723fcb901426cbc321dd69ebed4d4d11759dcc12783a59eb6ffc15",
-              "size": 60452124
+              "url": "https://github.com/sugatachcal/zolo-releases/releases/download/v0.1.29/opencode-1.18.21+runtime.2-linux-arm64.tar.gz",
+              "sha256": "f251e1c1267a78c3b8bbf905df7ba483a3edc470b464884bf4954d2da926c013",
+              "size": 61990872
             },
             {
               "platform": "darwin",
@@ -113,9 +113,9 @@
             {
               "platform": "darwin",
               "arch": "arm64",
-              "url": "https://github.com/sugatachcal/zolo-releases/releases/download/harness-dev/opencode-1.18.21+runtime.2-darwin-arm64.tar.gz",
-              "sha256": "5ecd77228c421e49fd8b8633fe42f42ea73b34bb9ce7222dbcdc6b7221feec21",
-              "size": 46307934
+              "url": "https://github.com/sugatachcal/zolo-releases/releases/download/v0.1.29/opencode-1.18.21+runtime.2-darwin-arm64.tar.gz",
+              "sha256": "6151eae8191e90e8335cde8459548506c43915b5532a038acef2cdad8aeb5e79",
+              "size": 47240085
             }
           ]
         }
@@ -132,16 +132,16 @@
             {
               "platform": "linux",
               "arch": "x64",
-              "url": "https://github.com/sugatachcal/zolo-releases/releases/download/harness-dev/cursor-1.0.28+runtime.2-linux-x64.tar.gz",
-              "sha256": "be0d8436f16c665bb473b11d88de4e60f15461deecf5d72526a336b96e6a03cb",
-              "size": 8670521
+              "url": "https://github.com/sugatachcal/zolo-releases/releases/download/v0.1.29/cursor-1.0.28+runtime.2-linux-x64.tar.gz",
+              "sha256": "a98b5f2484e4bae88d6f3c768fad630d9343bc31432a194ddc0c7e60a061a140",
+              "size": 8806323
             },
             {
               "platform": "linux",
               "arch": "arm64",
-              "url": "https://github.com/sugatachcal/zolo-releases/releases/download/harness-dev/cursor-1.0.28+runtime.2-linux-arm64.tar.gz",
-              "sha256": "e6c766ce0072b3faec7c37c3f2f1838e41bf77b2f359b282a663eefc5c375b5d",
-              "size": 8332786
+              "url": "https://github.com/sugatachcal/zolo-releases/releases/download/v0.1.29/cursor-1.0.28+runtime.2-linux-arm64.tar.gz",
+              "sha256": "20332cdbe2231dea9055e7f34a386d95200ad92da845e4f1ef79accfe144cacc",
+              "size": 8524627
             },
             {
               "platform": "darwin",
@@ -153,9 +153,9 @@
             {
               "platform": "darwin",
               "arch": "arm64",
-              "url": "https://github.com/sugatachcal/zolo-releases/releases/download/harness-dev/cursor-1.0.28+runtime.2-darwin-arm64.tar.gz",
-              "sha256": "acdf59d549575d0cb63e9ab6bda773ae6a37c42bba00065ec239a803050ec433",
-              "size": 6705507
+              "url": "https://github.com/sugatachcal/zolo-releases/releases/download/v0.1.29/cursor-1.0.28+runtime.2-darwin-arm64.tar.gz",
+              "sha256": "8f15b2b89c61e4fe8a119baf5e7ba4579f010838b08f4f4ad5715a3950a0e16c",
+              "size": 6832714
             }
           ]
         }
