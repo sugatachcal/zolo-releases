@@ -72,15 +72,15 @@
               "platform": "linux",
               "arch": "arm64",
               "url": "https://github.com/sugatachcal/zolo-releases/releases/download/harnesses/claude-code-0.3.259+runtime.2.dc10802f-linux-arm64.tar.gz",
-              "sha256": "4d3010646795462931045eeac44ac2857b46e122874e247025552828db9e16f5",
-              "size": 98366393
+              "sha256": "a9bd6cbc344bea28f2458f7063d8168e4fb9fc3d9e93af8795d12da18c20f7ad",
+              "size": 98366400
             },
             {
               "platform": "linux",
               "arch": "x64",
               "url": "https://github.com/sugatachcal/zolo-releases/releases/download/harnesses/claude-code-0.3.259+runtime.2.dc10802f-linux-x64.tar.gz",
-              "sha256": "ab996cc10536eac6aac13daf0d943fbb5a5ff59113c17c6f2f9b5c728d1289f3",
-              "size": 97944100
+              "sha256": "411bc817501099ca2c8a2e52c7ed26cf7b0310445c7395c63cdbeb3599b9bbdd",
+              "size": 97944092
             }
           ]
         }
@@ -157,19 +157,20 @@
               "platform": "linux",
               "arch": "arm64",
               "url": "https://github.com/sugatachcal/zolo-releases/releases/download/harnesses/codex-0.153.0+runtime.2.dfcbeb43-linux-arm64.tar.gz",
-              "sha256": "446cc5e969cbcd4745d50436168c98464cdb9f84d1de2941d0a88a05b264e424",
-              "size": 119661775
+              "sha256": "e84be5a2d41f92b503a1e6b66e45e91932a230fdc574000a5186e1e1ea4e842b",
+              "size": 119661774
             },
             {
               "platform": "linux",
               "arch": "x64",
               "url": "https://github.com/sugatachcal/zolo-releases/releases/download/harnesses/codex-0.153.0+runtime.2.dfcbeb43-linux-x64.tar.gz",
-              "sha256": "646288150dc1fd9c2b0c8f79d7fe1c930d523e75152ddc2247a0c538bd56cd54",
+              "sha256": "9208267495a2ebfc25601b66e4787ee6f07edcd57ba4051edecc6d1e33e212ce",
               "size": 126886017
             }
           ]
         }
-      ]
+      ],
+      "minimumVersion": "0.153.0+runtime.2.dfcbeb43"
     },
     {
       "id": "opencode",
@@ -242,15 +243,15 @@
               "platform": "linux",
               "arch": "arm64",
               "url": "https://github.com/sugatachcal/zolo-releases/releases/download/harnesses/opencode-1.18.27+runtime.2.89c2ec70-linux-arm64.tar.gz",
-              "sha256": "4b573cb123f17dc53f033a3c2a035d93b037aec25aeeb7eb13f802f2884be5f0",
-              "size": 62013500
+              "sha256": "e1e425c91669c33a2a2b7aef4e3e7afbc695df3f04a0c01da458742c04fabaa5",
+              "size": 62013486
             },
             {
               "platform": "linux",
               "arch": "x64",
               "url": "https://github.com/sugatachcal/zolo-releases/releases/download/harnesses/opencode-1.18.27+runtime.2.89c2ec70-linux-x64.tar.gz",
-              "sha256": "2869f05f1d7ff4ad38ed8957b8d0382f368be9ff1fd91234dac4d576091b8bd1",
-              "size": 61610256
+              "sha256": "222c9a13a073b5658c7c7cb305aec767728e4ac2fb2a50d65fe95d59656055a2",
+              "size": 61610259
             }
           ]
         }
@@ -327,15 +328,15 @@
               "platform": "linux",
               "arch": "arm64",
               "url": "https://github.com/sugatachcal/zolo-releases/releases/download/harnesses/cursor-1.0.30+runtime.2.208cac66-linux-arm64.tar.gz",
-              "sha256": "4111d7596a6f0f0e3627304453f44a0acd2d725f37f7947e17bd6ad516f15981",
-              "size": 8391294
+              "sha256": "bac152f8babbf9e61577be9956f864547898b66370e760231560a03b244ec365",
+              "size": 8391311
             },
             {
               "platform": "linux",
               "arch": "x64",
               "url": "https://github.com/sugatachcal/zolo-releases/releases/download/harnesses/cursor-1.0.30+runtime.2.208cac66-linux-x64.tar.gz",
-              "sha256": "31f1de2f5879af25b933cab4e20825dd2e9c3958ce045641793060acbdc13790",
-              "size": 8665876
+              "sha256": "2c7f0dceaf80918ea950bb2b4bec86b19ecc42b88e382de632fc16d6b9a32c71",
+              "size": 8665866
             }
           ]
         }
