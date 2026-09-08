@@ -216,8 +216,8 @@
               "platform": "darwin",
               "arch": "arm64",
               "url": "https://github.com/sugatachcal/zolo-releases/releases/download/harnesses/codex-0.153.0+runtime.2.fb310b38-darwin-arm64.tar.gz",
-              "sha256": "5a92689e5a9f45edf0cb45ff701a302525f238bd96758640902d3077f652dd25",
-              "size": 116156022
+              "sha256": "20c7920e277f245dce1c352050e712361ff9dee7dafa2368a6318cbff86139d1",
+              "size": 116156031
             },
             {
               "platform": "linux",
