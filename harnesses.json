@@ -4,7 +4,7 @@
     {
       "id": "claude-code",
       "displayName": "Claude Code",
-      "latestVersion": "0.3.268+runtime.2.139ee9cc",
+      "latestVersion": "0.3.280+runtime.2.8537ee1c",
       "releases": [
         {
           "version": "0.3.239+runtime.2",
@@ -142,6 +142,25 @@
               "size": 89122528
             }
           ]
+        },
+        {
+          "version": "0.3.280+runtime.2.8537ee1c",
+          "assets": [
+            {
+              "platform": "linux",
+              "arch": "arm64",
+              "url": "https://github.com/sugatachcal/zolo-releases/releases/download/harnesses/claude-code-0.3.280+runtime.2.8537ee1c-linux-arm64-fcbf7cbd33895f572b1cad238b1f173f651cc618234d034e55a0c4d567122d18.tar.gz",
+              "sha256": "fcbf7cbd33895f572b1cad238b1f173f651cc618234d034e55a0c4d567122d18",
+              "size": 106104638
+            },
+            {
+              "platform": "linux",
+              "arch": "x64",
+              "url": "https://github.com/sugatachcal/zolo-releases/releases/download/harnesses/claude-code-0.3.280+runtime.2.8537ee1c-linux-x64-2048c1b69415485fa7f0cde777469c84383f6554c3b7960344a973f63b77f1b4.tar.gz",
+              "sha256": "2048c1b69415485fa7f0cde777469c84383f6554c3b7960344a973f63b77f1b4",
+              "size": 105828379
+            }
+          ]
         }
       ],
       "minimumVersion": "0.3.268+runtime.2.139ee9cc"
@@ -149,7 +168,7 @@
     {
       "id": "codex",
       "displayName": "Codex",
-      "latestVersion": "0.154.0+runtime.2.fb310b38",
+      "latestVersion": "0.155.1+runtime.2.e53e131d",
       "releases": [
         {
           "version": "0.149.0+runtime.2",
@@ -287,6 +306,25 @@
               "size": 117045162
             }
           ]
+        },
+        {
+          "version": "0.155.1+runtime.2.e53e131d",
+          "assets": [
+            {
+              "platform": "linux",
+              "arch": "arm64",
+              "url": "https://github.com/sugatachcal/zolo-releases/releases/download/harnesses/codex-0.155.1+runtime.2.e53e131d-linux-arm64-5ab8323c10654ec947549a0b50e89f9077ff601d874f5b132231c7ba5614138d.tar.gz",
+              "sha256": "5ab8323c10654ec947549a0b50e89f9077ff601d874f5b132231c7ba5614138d",
+              "size": 135680087
+            },
+            {
+              "platform": "linux",
+              "arch": "x64",
+              "url": "https://github.com/sugatachcal/zolo-releases/releases/download/harnesses/codex-0.155.1+runtime.2.e53e131d-linux-x64-f1b2e6c006bc17f1907fbba6047b6fadafd253ad5568f1267ceb8f1b9404253f.tar.gz",
+              "sha256": "f1b2e6c006bc17f1907fbba6047b6fadafd253ad5568f1267ceb8f1b9404253f",
+              "size": 142798643
+            }
+          ]
         }
       ],
       "minimumVersion": "0.153.0+runtime.2.dfcbeb43"
@@ -294,7 +332,7 @@
     {
       "id": "opencode",
       "displayName": "OpenCode",
-      "latestVersion": "1.18.30+runtime.2.5a4f6bc3",
+      "latestVersion": "1.18.32+runtime.2.85ecb2c5",
       "releases": [
         {
           "version": "1.18.21+runtime.2",
@@ -451,13 +489,32 @@
               "size": 62061686
             }
           ]
+        },
+        {
+          "version": "1.18.32+runtime.2.85ecb2c5",
+          "assets": [
+            {
+              "platform": "linux",
+              "arch": "arm64",
+              "url": "https://github.com/sugatachcal/zolo-releases/releases/download/harnesses/opencode-1.18.32+runtime.2.85ecb2c5-linux-arm64-45a8d8e1bf42d79b5645c617fad8bdba33ec132f896e97b20fef10cc0df9f5c4.tar.gz",
+              "sha256": "45a8d8e1bf42d79b5645c617fad8bdba33ec132f896e97b20fef10cc0df9f5c4",
+              "size": 62119143
+            },
+            {
+              "platform": "linux",
+              "arch": "x64",
+              "url": "https://github.com/sugatachcal/zolo-releases/releases/download/harnesses/opencode-1.18.32+runtime.2.85ecb2c5-linux-x64-3eb4a7c20fac21a3f6181d52e7c1b62c72734afc0be523ee9b02f71d116d49d9.tar.gz",
+              "sha256": "3eb4a7c20fac21a3f6181d52e7c1b62c72734afc0be523ee9b02f71d116d49d9",
+              "size": 61700445
+            }
+          ]
         }
       ]
     },
     {
       "id": "cursor",
       "displayName": "Cursor",
-      "latestVersion": "1.0.31+runtime.2.f3eba9fd",
+      "latestVersion": "1.0.32+runtime.2.1167191c",
       "releases": [
         {
           "version": "1.0.28+runtime.2",
@@ -612,6 +669,25 @@
               "url": "https://github.com/sugatachcal/zolo-releases/releases/download/harnesses/cursor-1.0.31+runtime.2.f3eba9fd-linux-arm64-cbb5f179791dec7a6408cfa2e94c78cf8e7af1cca30228f577f4851cccc28c52.tar.gz",
               "sha256": "cbb5f179791dec7a6408cfa2e94c78cf8e7af1cca30228f577f4851cccc28c52",
               "size": 8816222
+            }
+          ]
+        },
+        {
+          "version": "1.0.32+runtime.2.1167191c",
+          "assets": [
+            {
+              "platform": "linux",
+              "arch": "arm64",
+              "url": "https://github.com/sugatachcal/zolo-releases/releases/download/harnesses/cursor-1.0.32+runtime.2.1167191c-linux-arm64-a885c9eebb43bfdbc73116f638a389d9117044270ca64d95f927cca285d5b0f6.tar.gz",
+              "sha256": "a885c9eebb43bfdbc73116f638a389d9117044270ca64d95f927cca285d5b0f6",
+              "size": 8668487
+            },
+            {
+              "platform": "linux",
+              "arch": "x64",
+              "url": "https://github.com/sugatachcal/zolo-releases/releases/download/harnesses/cursor-1.0.32+runtime.2.1167191c-linux-x64-86931c4e5a62cb754812674a6822f097807262dc70d952cda77f4d59a6e727ec.tar.gz",
+              "sha256": "86931c4e5a62cb754812674a6822f097807262dc70d952cda77f4d59a6e727ec",
+              "size": 8940073
             }
           ]
         }
